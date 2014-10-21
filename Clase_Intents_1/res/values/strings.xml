@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ClassActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <color name="mainlayout">#FFF00000</color>
+    <color name="textlayout">#FFFFFFFF</color>
+    <color name="buttonlayout">#FFFBBDDD</color>
+
+</resources>
